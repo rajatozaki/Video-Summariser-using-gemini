@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "name": "1",
+            "email": "test@gmail.com",
+            "age": 11,
+            "sex": "Male",
+            "password": "e10adc3949ba59abbe56e057f20f883e"
+        },
+        {
+            "name": "test",
+            "email": "test2@gmail.com",
+            "age": 12,
+            "sex": "Male",
+            "password": "e10adc3949ba59abbe56e057f20f883e"
+        },
+        {
+            "name": "a",
+            "email": "s@g",
+            "age": 22,
+            "sex": "Male",
+            "password": "980ac217c6b51e7dc41040bec1edfec8"
+        },
+        {
+            "name": "kazu",
+            "email": "rks@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "7490e926dfea63422e45c96081deeb91"
+        },
+        {
+            "name": "kazu",
+            "email": "kazuqt@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "0d9eafb7a8d3107a999584679734a0a1"
+        }
+    ]
+}
